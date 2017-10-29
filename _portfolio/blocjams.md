@@ -2,8 +2,7 @@
 layout: post
 title: BlocJams
 thumbnail-path: "img/blocjams.png"
-short-description: BlocJams is a Spotify replica for organizing and sharing your songs
-and playlists.
+short-description: BlocJams is a Spotify replica for organizing and sharing your songs and playlists.
 
 ---
 
