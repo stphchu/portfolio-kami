@@ -10,7 +10,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>photography | fitness | software development</h1>
+     <h1>photography | software development</h1>
      <p></p>
   header_text_feature_image:
   footer_text: >
