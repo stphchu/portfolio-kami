@@ -17,8 +17,9 @@ I went through each workday feeling like I was just going through the motions of
 
 One day at work, while I was browsing the most recent few episodes of the podcast, Hidden Brain, I came across one that caught my attention: “You 2.0: Getting Unstuck”. The description read, _“At one time or another, many of us feel stuck: in the wrong job, the wrong relationship, the wrong city – the wrong life. Psychologists and self-help gurus have all kinds of advice for us when we feel rudderless. This week on Hidden Brain, we conclude our You 2.0 series with a favorite episode exploring a new idea from an unlikely source: Silicon Valley.”_ I paused after reading the blurb.
 
-I *was* feeling stuck.
-I *was* feeling like I had been in the wrong job and living the wrong life.
+I **was** feeling stuck.
+
+I **was** feeling like I had been in the wrong job and living the wrong life.
 
 I was looking for answers and I was looking for guidance.
 
