@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hey Alexa (pt. 2)
+tags: Bloc, Alexa
 ---
 
 I just completed the second part of the Alexa project ("Build a Fact Skill") and, no less than three times, found myself completely frustrated to the point of considering changing to another project. Similar to the first checkpoint ("Build a Trivia Skill"), the instructions were slightly outdated, which wasn't too bad since the implied steps were easy to figure out.

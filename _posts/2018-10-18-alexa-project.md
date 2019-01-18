@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hey Alexa
+tags: Bloc, Alexa
 ---
 
 I decided to take on the Alexa project without really knowing what to expect: how does it work? What am I going to be doing? What's the learning curve? I had no idea. But, the trend of having voice-enabled AI assistants integrated in our everyday lives appear to be the trajectory of current technology (thus, it seemed like a good idea to familiarize myself at least of one them).

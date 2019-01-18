@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 2017 and How I Got Here (Part 1/2)
+tags: personal, Bloc
 ---
 
 If there’s anything I’m sure about concerning 2017 is that this is the year I’ve probably had the most gastrointestinal issues I’ve ever had in my entire life. Even beyond being in the midst of the current social and political climate, and beyond the fact that a more immature King Joffrey is at the helm of this country, I’ve just been terribly anxious about the future.
