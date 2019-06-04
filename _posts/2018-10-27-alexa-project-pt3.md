@@ -13,3 +13,10 @@ The skill would allow you to start a timer for when you begin a fasting period a
 Other ideas I've considered and might attempt:
 
 - A Bechdel Test skill where you could check whether a movie passes the test or not.
+
+
+<small>
+    {% for tag in page.tags %}
+    <a href="/tags/{{ tag }}/">{{ tag }}</a>
+    {% endfor %}
+</small>

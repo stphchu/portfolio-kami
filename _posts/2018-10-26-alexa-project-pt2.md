@@ -14,3 +14,10 @@ Every time I encountered an error, I never knew why or where to look because the
 <img src="/assets/dont_understand.gif" width="300" height="220" />
 
 On my first attempt, I encountered an error during the certification step (the ); it kept failing during the "functional test" and I had no idea why. After poring over everything I entered and all the steps again, I eventually decided it was going to take more time to pinpoint and fix whatever error it was than to just start all over -- which was what I ended up doing. The second attempt went smoother, though I wish I knew what I had missed the first time around.
+
+
+<small>
+    {% for tag in page.tags %}
+    <a href="/tags/{{ tag }}/">{{ tag }}</a>
+    {% endfor %}
+</small>
