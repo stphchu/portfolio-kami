@@ -11,7 +11,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h1>portfolio and blog</h1>
-     <p>A collection of my work and thoughts</p>
+     <p>*please excuse the mess (currently working on rebuilding the site and moving to a new host)</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.

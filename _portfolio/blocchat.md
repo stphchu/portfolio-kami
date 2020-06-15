@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bloc Chat
-thumbnail-path: "img/blocchat.png"
+thumbnail-path: ""
 short-description: A browser-based live chat developed using AngularFire and FireBase.
 
 ---
